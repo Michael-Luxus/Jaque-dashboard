@@ -1,0 +1,162 @@
+[
+    {
+      "Id": "1",
+      "Nom": "AGRIVET",
+      "Email": "rolly.rasamison@agrivet.mg;tahiana.ranaivoniriana@agrivet.mg;bernard.vontsoa@inviso-group.com",
+      "Status": true,
+      "Societe": "AGRIVET",
+      "Cc": "adrien.restle@agrivet.mg;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "2",
+      "Nom": "AGRIFARM",
+      "Email": "rija.rapelamaro@agrifarm.mg;mamode.cajee@agrifarm.mg;patrick.doressamy@agrifarm.mg;noella.razafimandimby@inviso-group.com",
+      "Status": true,
+      "Societe": "AGRIFARM",
+      "Cc": "ludwig.heraibi@inviso-group.com;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "3",
+      "Nom": "AGRIKOBA",
+      "Email": "lila.ratsiharovala@agrikoba.com;fidy.rasoanaivo@savonysalama.com;noella.razafimandimby@inviso-group.com",
+      "Status": true,
+      "Societe": "AGRIKOBA",
+      "Cc": "ludwig.heraibi@inviso-group.com;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "4",
+      "Nom": "AGRIVAL",
+      "Email": "maro.ravelojaona@agrival.mg;lova.andriatavison@agrival.mg;noella.razafimandimby@inviso-group.com",
+      "Status": true,
+      "Societe": "AGRIVAL",
+      "Cc": "ludwig.heraibi@inviso-group.com;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "5",
+      "Nom": "SMTP",
+      "Email": "brice.ramaka@smtp-madagascar.com;rajo.andrea@smtp-madagascar.com;noella.razafimandimby@inviso-group.com",
+      "Status": true,
+      "Societe": "SMTP",
+      "Cc": "marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "6",
+      "Nom": "AGRIMOTORS",
+      "Email": "tahiry.ranaivoson@inviso-group.com",
+      "Status": true,
+      "Societe": "AGRIMOTORS",
+      "Cc": "adrien.restle@agrivet.mg;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "7",
+      "Nom": "FARMANTSIKA",
+      "Email": "nachiket.patil@mabel.mg;stephane.rakotoson@mabel.mg;noella.razafimandimby@inviso-group.com",
+      "Status": true,
+      "Societe": "FARMANTSIKA",
+      "Cc": "peens.kobus@mabel.mg;hugo.scano@idrental.mg;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "8",
+      "Nom": "FIRST ENERGY",
+      "Email": "tsiresy.ainamananjanahary@inviso-group.com;noella.razafimandimby@inviso-group.com",
+      "Status": true,
+      "Societe": "FIRST ENERGY",
+      "Cc": "christophe.mertz@idmotors.com;hugo.scano@idrental.mg;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;pierre.ramaholison@inviso-group.com"
+    },
+    {
+      "Id": "9",
+      "Nom": "FLY TECHNOLOGIES",
+      "Email": "miguel.a@fly-technologies.com;noella.razafimandimby@inviso-group.com",
+      "Status": true,
+      "Societe": "FLY TECHNOLOGIES",
+      "Cc": "kiran.d@fly-technologies.com;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "10",
+      "Nom": "ID RENTAL",
+      "Email": "miary.razafiharinaivo@idrental.mg;tahiry.ranaivoson@inviso-group.com",
+      "Status": true,
+      "Societe": "ID RENTAL",
+      "Cc": "pierre.lacaille@idrental.mg;sylvaine.guy@idrental.mg;hugo.scano@idrental.mg;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;pierre.ramaholison@inviso-group.com"
+    },
+    {
+      "Id": "11",
+      "Nom": "IDF",
+      "Email": "vero.rasolonomenjanahary@lacityimmobilier.com;larrisa.raharsonlacityimmobilier.com;tahiry.ranaivoson@inviso-group.com",
+      "Status": true,
+      "Societe": "IDF",
+      "Cc": "marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "12",
+      "Nom": "ID MOTORS",
+      "Email": "heri.raoelina@first-energy.mg;tahiry.ranaivoson@inviso-group.com",
+      "Status": true,
+      "Societe": "ID MOTORS",
+      "Cc": "christophe.mertz@idmotors.com;hugo.scano@idrental.mg;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;pierre.ramaholison@inviso-group.com"
+    },
+    {
+      "Id": "13",
+      "Nom": "INTERKEM",
+      "Email": "olivier.andriamanga@interkem.mg;vololomboahangy.rasolomanana@inviso-group.com;noella.razafimandimby@inviso-group.com",
+      "Status": true,
+      "Societe": "INTERKEM",
+      "Cc": "marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "14",
+      "Nom": "MABEL",
+      "Email": "nachiket.patil@mabel.mg;stephane.rakotoson@mabel.mg;tahiry.ranaivoson@inviso-group.com",
+      "Status": true,
+      "Societe": "MABEL",
+      "Cc": "peens.kobus@mabel.mg;hugo.scano@idrental.mg;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;pierre.ramaholison@inviso-group.com"
+    },
+    {
+      "Id": "15",
+      "Nom": "NUTRIFOOD",
+      "Email": "lila.ratsiharovala@agrikoba.com;fidy.rasoanaivo@savonysalama.com;noella.razafimandimby@inviso-group.com",
+      "Status": true,
+      "Societe": "NUTRIFOOD",
+      "Cc": "ludwig.heraibi@inviso-group.com;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "16",
+      "Nom": "RYA",
+      "Email": "vero.rasolonomenjanahary@lacityimmobilier.com;larrisa.raharsonlacityimmobilier.com;noella.razafimandimby@inviso-group.com",
+      "Status": true,
+      "Societe": "RYA",
+      "Cc": "marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "17",
+      "Nom": "SALAMA",
+      "Email": "nardy.haingolalaina@savonysalama.com;jimmy.rakotomahanina@agrifarm.mg;noella.razafimandimby@inviso-group.com",
+      "Status": true,
+      "Societe": "SALAMA",
+      "Cc": "ludwig.heraibi@inviso-group.com;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "18",
+      "Nom": "SIM",
+      "Email": "noella.razafimandimby@inviso-group.com",
+      "Status": true,
+      "Societe": "SIM",
+      "Cc": "marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "19",
+      "Nom": "UNITED MALAGASY",
+      "Email": "vololomboahangy.rasolomanana@inviso-group.com;tahiry.ranaivoson@inviso-group.com",
+      "Status": true,
+      "Societe": "UNITED MALAGASY",
+      "Cc": "alain.iloniaina@2424.mg;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    },
+    {
+      "Id": "20",
+      "Nom": "FLY LEASE",
+      "Email": "miguel.a@fly-technologies.com;noella.razafimandimby@inviso-group.com",
+      "Status": true,
+      "Societe": "FLY LEASE",
+      "Cc": "kiran.d@fly-technologies.com;marc.baier@inviso-group.com;mickael.ravelomanantsoa@inviso-group.com;rivo.rabotoson@inviso-group.com;mano.razafimahefa@inviso-group.com;havana.ravaliarison@inviso-group.com;fanja.razanakolona@inviso-group.com;arielle.ivoahangy@groupe-smtp.com;rianasoa.rafalivololona@inviso-group.com"
+    }
+  ]

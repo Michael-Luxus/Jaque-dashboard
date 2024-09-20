@@ -1,0 +1,11 @@
+[
+  {
+    "server": "172.16.112.25\\mssql2k12",
+    "nom": "BASE",
+    "valeur": "BASE",
+    "base": "x3v7",
+    "table": "BASE",
+    "status": true,
+    "type": "x3"
+  }
+]

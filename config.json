@@ -1,0 +1,20 @@
+{
+  "SQL": {
+    "base": "SELECT left(date,8) DATE, [ACTION]+' and Copy' as Action ,[server] source , @@servername DESTINATION,DB ,[datehier] ,[status],path FROM [reporting].[dbo].[OldSetBackup_Check] where DATEHIER =FORMAT(getdate()-2,'yyyyMMdd') or DATEHIER =FORMAT(getdate()-1,'yyyyMMdd') ORDER BY SERVER" 
+
+  },
+
+
+
+  "CONFIGURATION": {
+    "FROM": "michael.andriamahefa@inviso-group.com",
+    "CC": "",
+    "LOGIN": "sagex3@inviso-group.com",
+    "PASSWORD": "Epbt2_9)Hw",
+    "HOST": "mail.inviso-group.com",
+    "PORT": 587,
+    "OBJET": "ZK Board {name_societe} du {date}",
+    "MESSAGE": "Bonsoir,\n\nMerci de voir en attaché la facture de ce jour.\n\nCordialement,\n\n============= Mail Automatique =================\n\n                www.inviso-group.com\n                \n============= Sage X3 - {date} ===================="
+  }
+}
+

@@ -1,0 +1,46 @@
+[
+    {
+        "No": 1,
+        "Destinataire": "AGRIVAL",
+        "Email": "michael.andriamahefa@inviso-group.com",
+        "DateTime": "10/09/2024 16:30:35",
+        "Status": true,
+        "server": "172.16.112.25\\mssql2k12",
+        "base_name": "x3v7",
+        "soc_name": "AGRIVAL",
+        "filename": "storage/10-09-2024/output\\FACTURE_AGRIVAL_10-09-2024.xlsx"
+    },
+    {
+        "No": 2,
+        "Destinataire": "AGRIVAL",
+        "Email": "michael.andriamahefa@inviso-group.com",
+        "DateTime": "11/09/2024 12:51:11",
+        "Status": true,
+        "server": "172.16.112.25\\mssql2k12",
+        "base_name": "x3v7",
+        "soc_name": "AGRIVAL",
+        "filename": "storage/11-09-2024/output\\FACTURE_AGRIVAL_11-09-2024.xlsx"
+    },
+    {
+        "No": 3,
+        "Destinataire": "AGRIVAL",
+        "Email": "michael.andriamahefa@inviso-group.com",
+        "DateTime": "11/09/2024 12:56:10",
+        "Status": true,
+        "server": "172.16.112.25\\mssql2k12",
+        "base_name": "x3v7",
+        "soc_name": "AGRIVAL",
+        "filename": "storage/11-09-2024/output\\BASE_AGRIVAL_11-09-2024.xlsx"
+    },
+    {
+        "No": 4,
+        "Destinataire": "AGRIVAL",
+        "Email": "michael.andriamahefa@inviso-group.com",
+        "DateTime": "11/09/2024 12:57:56",
+        "Status": true,
+        "server": "172.16.112.25\\mssql2k12",
+        "base_name": "x3v7",
+        "soc_name": "AGRIVAL",
+        "filename": "storage/11-09-2024/output\\BASE_AGRIVAL_11-09-2024.xlsx"
+    }
+]
